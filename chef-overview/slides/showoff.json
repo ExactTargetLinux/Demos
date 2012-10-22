@@ -1,0 +1,22 @@
+{
+  "name": "Chef Fundamentals",
+  "sections": [
+    "introduction",
+    "architectural-overview",
+    "anatomy-of-a-chef-run",
+    "chef-knife",
+    "cookbooks-and-recipes",
+    "chef-node",
+    "environments",
+    "data-bags"
+  ],
+  "pdf_options": {
+    "page_size": "Letter",
+    "orientation": "landscape",
+    "margin_top": "0.5in",
+    "margin_right": "0.5in",
+    "margin_bottom": "0.5in",
+    "margin_left": "0.5in",
+    "user_style_sheet": "base.css"
+  }
+}

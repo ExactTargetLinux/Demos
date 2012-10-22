@@ -1,0 +1,26 @@
+# Cookbooks and Recipes
+
+<div class="titlePage">Cookbooks and Recipes</div>
+<center><img src="../images/cookbook-cover.jpg" /></center>
+
+# Cookbooks and Recipes
+## Cookbooks
+
+Cookbooks are the fundimental units of distribution in Chef.  The pull
+together all the resources necessary to automate our infrastructure.
+
+At ExactTarget, we store our Cookbooks in a private git repository
+hosted on GitHub.com.
+
+# Cookbooks and Recipes
+## Cookbook Contents
+
+* Attributes
+* Definitions
+* File Distribution
+* Libraries
+* Recipes
+* Lightweight Resources and Providers (LWRP)
+* Templates
+* Metadata
+
